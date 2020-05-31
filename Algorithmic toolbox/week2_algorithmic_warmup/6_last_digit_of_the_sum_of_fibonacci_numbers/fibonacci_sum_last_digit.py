@@ -1,5 +1,4 @@
 # Python3
-# https://stackoverflow.com/questions/38950579/fibonacci-sum-of-large-numbersonly-last-digit-to-be-printed
 n = int(input())
 
 if n<=1:

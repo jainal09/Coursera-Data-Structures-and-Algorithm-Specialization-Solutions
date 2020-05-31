@@ -52,4 +52,4 @@ if __name__ == '__main__':
 
     LCS_length, Matrix = LCS3(s1, s2, s3, n1, n2, n3)
     print('Length of LCS:', LCS_length)
-    sequence = printSubsequence(
+    sequence = printSubsequence(Matrix, s1, s2, s3, n1, n2, n3, LCS_length)

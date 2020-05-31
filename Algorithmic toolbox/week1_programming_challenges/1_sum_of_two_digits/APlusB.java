@@ -7,3 +7,4 @@ class APlusB {
     int b = s.nextInt();
     System.out.println(a + b);
   }
+}
